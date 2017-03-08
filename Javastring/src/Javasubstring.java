@@ -13,7 +13,7 @@ public class Javasubstring {
 		
 		System.out.println(S.substring(0,14));
 		
-		
+		//greeting
 
 	}
 
